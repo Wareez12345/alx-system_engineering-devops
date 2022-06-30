@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -it | tail -10
+ls -it | tail -n 10
